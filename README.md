@@ -16,12 +16,12 @@ I am currently working on a project called [Chat Worm](https://www.chatworm.com)
 
 Here are some of the skills that I possess:
 
+- AI & Blockchain Technology
 - Java, Node.js, Kotlin
 - Angular, React, VueJs
 - MySQL, PostgreSQL
 - Git, JIRA, Confluence
 - Agile Methodologies
-- AI & Blockchain Technology
 
 ## Social Media 🌐
 
