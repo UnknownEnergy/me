@@ -1,6 +1,6 @@
 # Daniel Schweiger 👨‍💻 - Senior Software Developer
 
-Welcome to my personal homepage! I am a Senior Software Developer with over 7 years of experience in developing software solutions for various industries. I am passionate about building robust, scalable, and maintainable software systems that solve real-world problems. 
+Welcome to my personal homepage. I am a Senior Software Developer with over 7 years of experience in developing software solutions for various industries. I am passionate about building robust, scalable, and maintainable software systems that solve real-world problems. 
 
 ## Projects 🚀
 
