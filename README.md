@@ -6,12 +6,9 @@ Welcome to my personal homepage! I am a Senior Software Developer with over 7 ye
 
 Here are some of the projects that I have worked on:
 
-### Project 1: Chat Worm - Advanced Chat GPT Client 💰
+### Project 1: Chat Worm - Advanced Chat GPT Client 🐛
 
-I am working on a project called www.chatworm.com, which is a web client for ChatGPT. This tool has multiple advantages, including availability even when the original chat platform is down, faster response time, and cost-effectiveness as users only pay per tokens. Additionally, the application is customizable, which lets users change the randomness of AI assistant's responses, and it offers multiple models, including those with no content policy. Along with all these features, Chatworm.com offers many more features that make it a versatile and useful tool for anyone looking for an AI assistant for chatting. And the best thing it is open-source.
-www.github.com/UnknownEnergy/chatgpt-api
-
-in progress...
+I am currently working on a project called [Chat Worm](www.chatworm.com), which is a web client for ChatGPT. This tool has multiple advantages, including availability even when the original chat platform is down, faster response time, and cost-effectiveness as users only pay per tokens. Additionally, the application is customizable, which lets users change the randomness of AI assistant's responses, and it offers multiple models, including those with no content policy. Along with all these features, Chatworm.com offers many more features that make it a versatile and useful tool for anyone looking for an AI assistant for chatting. The best thing is, Chat Worm is open-source and can be found on [GitHub](www.github.com/UnknownEnergy/chatgpt-api).
 
 ## Skills 👨‍🔬
 
@@ -28,16 +25,27 @@ Here are some of the skills that I possess:
 
 You can find me on the following social media platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/daniel-schweiger/)
-- [Facebook](https://www.facebook.com/daniel.schweiger.12)
-- [Instagram](https://www.instagram.com/crypto.daniel/)
-- [Twitter](https://twitter.com/MrCryptoDan)
-- [GitHub](https://github.com/UnknownEnergy)
+- [LinkedIn](https://www.linkedin.com/in/daniel-schweiger/) Business only
+- [Twitter](https://twitter.com/MrCryptoDan) Crypto & NFT only
+- [GitHub](https://github.com/UnknownEnergy) Sofware Projects only
+- [Facebook](https://www.facebook.com/daniel.schweiger.12) Private only
+- [Instagram](https://www.instagram.com/crypto.daniel/) Private only
+
+## Others & Affiliates 🤝
+- [Countries I visited](https://www.amcharts.com/visited_countries/#AT,BA,HR,CZ,DE,GR,HU,IT,LV,LT,NL,PL,SK,SI,ES,CH,TR,UA,GB)
+- [Spotify](https://open.spotify.com/user/unknown_energy?si=4esOIVhKSpaYN260XJCjrQ) Music I listen to
+- [Kraken](https://open.spotify.com/user/unknown_energy?si=4esOIVhKSpaYN260XJCjrQ) Crypto exchange - cheap & discount
+- [Binancee](https://www.binance.com/?ref=21762885) Crypto exchange - cheap & discount
+- [Blockpit](https://www.binance.com/?ref=21762885) Crypto tax report - quick & discount
+- [Uber](https://www.uber.com/invite/ys0k3d) Uber 5$ off your first ride
+- [Airbnb](https://abnb.me/e/tiAaavc8U2?suuid=06a97a12-a0e8-4d40-a650-47735c395cc0&slevel=0) Airbnb 30€ credit for you
 
 ## Tips 💰💸
 
 If you found my work helpful and would like to support me, you can use any of the following links to donate:
-
+ 
 - [PayPal](https://paypal.me/danschweiger)
 - [Ko-fi](https://ko-fi.com/schweiger)
-- [Bitcoin](bitcoin:1Beer4MeHd1ybUeWWKxA6ieYV7xiufQxUE) (1Beer4MeHd1ybUeWWKxA6ieYV7xiufQxUE)
+- Bitcoin (1Beer4MeHd1ybUeWWKxA6ieYV7xiufQxUE) - You can donate to my Bitcoin wallet directly.
+
+Overall, my goal is to create innovative and efficient solutions to solve challenging problems in the software development industry. Feel free to connect with me on social media or contact me for any project ideas or collaborations.
