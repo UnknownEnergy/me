@@ -36,9 +36,9 @@ You can find me on the following social media platforms:
 ## Others & Affiliates 🤝
 - [Countries I visited](https://www.amcharts.com/visited_countries/#AT,BA,HR,CZ,DE,GR,HU,IT,LV,LT,NL,PL,SK,SI,ES,CH,TR,UA,GB)
 - [Spotify](https://open.spotify.com/user/unknown_energy?si=4esOIVhKSpaYN260XJCjrQ) Music I listen to
-- [Kraken](https://open.spotify.com/user/unknown_energy?si=4esOIVhKSpaYN260XJCjrQ) Crypto exchange - cheap & discount
-- [Binancee](https://www.binance.com/?ref=21762885) Crypto exchange - cheap & discount
-- [Blockpit](https://www.binance.com/?ref=21762885) Crypto tax report - quick & discount
+- [Kraken](https://r.kraken.com/c/2602573/741638/10583) Crypto exchange - cheap & discount
+- [Binance](https://www.binance.com/?ref=21762885) Crypto exchange - cheap & discount
+- [Blockpit](http://www.blockpit.io/ref/2Xcw0oG) Crypto tax report - quick & discount
 - [Uber](https://www.uber.com/invite/ys0k3d) Uber 5$ off your first ride
 - [Airbnb](https://abnb.me/e/tiAaavc8U2?suuid=06a97a12-a0e8-4d40-a650-47735c395cc0&slevel=0) Airbnb 30€ credit for you
 
