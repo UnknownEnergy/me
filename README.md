@@ -48,6 +48,6 @@ If you found my work helpful and would like to support me, you can use any of th
  
 - [PayPal](https://paypal.me/danschweiger)
 - [Ko-fi](https://ko-fi.com/schweiger)
-- Bitcoin (1Beer4MeHd1ybUeWWKxA6ieYV7xiufQxUE) - You can donate to my Bitcoin wallet directly.
+- Bitcoin 1Beer4MeHd1ybUeWWKxA6ieYV7xiufQxUE - You can donate to my Bitcoin wallet directly.
 
 Overall, my goal is to create innovative and efficient solutions to solve challenging problems in the software development industry. Feel free to connect with me on social media or contact me for any project ideas or collaborations.
