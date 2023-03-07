@@ -31,6 +31,7 @@ You can find me on the following social media platforms:
 - [Facebook](https://www.facebook.com/daniel.schweiger.12) Private only
 - [Instagram](https://www.instagram.com/crypto.daniel/) Private only
 - [Reddit](https://www.reddit.com/user/Unknown_Energy) Random
+- [YouTube](https://www.youtube.com/@danielschweiger) Crypto & NFT only
 
 ## Others & Affiliates 🤝
 - [Countries I visited](https://www.amcharts.com/visited_countries/#AT,BA,HR,CZ,DE,GR,HU,IT,LV,LT,NL,PL,SK,SI,ES,CH,TR,UA,GB)
