@@ -13,7 +13,7 @@ Here are some of the projects that I have worked on:
 I am currently working on a project called [Chat Worm](https://www.chatworm.com), which is a web client for ChatGPT. This tool has multiple advantages, including availability even when the original chat platform is down, faster response time, and cost-effectiveness as users only pay per tokens. Additionally, the application is customizable, which lets users change the randomness of AI assistant's responses, and it offers multiple models, including those with no content policy. Along with all these features, [Chat Worm](https://www.chatworm.com) offers many more features that make it a versatile and useful tool for anyone looking for an AI assistant for chatting. The best thing is, Chat Worm is open-source and can be found on [GitHub](https://www.github.com/UnknownEnergy/chatgpt-api).
   
 Screenshot:  
-<img src="https://github.com/UnknownEnergy/chatgpt-api/blob/master/src/assets/demo_screenshot.png" alt="Example Image" height="400">
+<img src="https://chatworm.com/assets/demo_screenshot.png" alt="Example Image" height="400">
 
 ## Skills 👨‍🔬
 
