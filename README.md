@@ -2,7 +2,7 @@
 
 Welcome to my personal homepage. I am a Senior Software Developer with over 7 years of experience in developing software solutions for various industries. I am passionate about building robust, scalable, and maintainable software systems that solve real-world problems. 
 
-<img src="profil.jpg" alt="Example Image" height="300"><br>*(This image was generated using leonardo.ai)*
+<img src="profil.jpg" alt="Example Image" height="300">
 
 ## Projects 🚀
 
