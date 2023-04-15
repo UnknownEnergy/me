@@ -34,7 +34,7 @@ Here are some of the skills that I possess:
 You can find me on the following social media platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-schweiger/) Business only
-- [Twitter](https://twitter.com/MrCryptoDan) Crypto & NFT only
+- [Twitter](https://twitter.com/MrCryptoDan) Crypto & NFT & AI only
 - [GitHub](https://github.com/UnknownEnergy) Sofware Projects only
 - [Facebook](https://www.facebook.com/daniel.schweiger.12) Private only
 - [Instagram](https://www.instagram.com/crypto.daniel/) Private only
