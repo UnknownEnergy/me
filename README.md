@@ -42,7 +42,7 @@ You can find me on the following social media platforms:
 - [YouTube](https://www.youtube.com/@danielschweiger) Crypto & NFT only
 
 ## Others & Affiliates 🤝
-- [Countries I visited](https://cmoreira.net/visited-countries-map/?vcstitle=Daniels%20Travel%20Map&inacolor=%23e0e0e0&actcolor=%236699cc&vcscountries=TR,AT,BA,HR,CZ,DE,GR,HU,IT,LV,LT,NL,PL,SK,SI,ES,CH,UA,GB)
+- [Countries I visited](https://cmoreira.net/visited-countries-map/?vcstitle=Daniels%20Travel%20Map&inacolor=%23e0e0e0&actcolor=%236699cc&vcscountries=TR,AT,BA,HR,CZ,DE,GR,HU,IT,LV,LT,NL,NO,PL,SK,SI,ES,CH,UA,GB&)
 - [Spotify](https://open.spotify.com/user/unknown_energy?si=4esOIVhKSpaYN260XJCjrQ) Music I listen to
 - [Binance](https://www.binance.com/?ref=21762885) Crypto exchange - cheap & discount
 - [Blockpit](http://www.blockpit.io/ref/2Xcw0oG) Crypto tax report - quick & discount
