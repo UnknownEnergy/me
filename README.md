@@ -1,8 +1,11 @@
-# Daniel Schweiger 👨‍💻 - Senior Software Developer
+# Daniel Schweiger 👨‍💻 - Senior Software Engineer
 
-Welcome to my personal homepage. I am a Senior Software Developer with over 7 years of experience in developing software solutions for various industries. I am passionate about building robust, scalable, and maintainable software systems that solve real-world problems. 
+Welcome to my personal website. I am a senior software engineer with over 7 years of experience in developing software solutions for various industries. I am passionate about building robust, scalable, and maintainable software systems that solve real-world problems. 
 
 <img src="profil.jpg" alt="Example Image" height="300">
+
+## Short Summary of Myself 🙇‍♂️
+Self aware, open-minded & optimistic individuum taking actions on long term opportunities.
 
 ## Projects 🚀
 
@@ -56,4 +59,4 @@ If you found my work helpful and would like to support me, you can use any of th
 - [Ko-fi](https://ko-fi.com/schweiger)
 - Bitcoin Address: 1Beer4MeHd1ybUeWWKxA6ieYV7xiufQxUE
 
-Overall, my goal is to create innovative and efficient solutions to solve challenging problems in the software development industry. Feel free to connect with me on social media or contact me for any project ideas or collaborations.
+Overall, my goal is to create innovative and efficient solutions to solve challenging problems in the software development industry. Feel free to connect with me on social media or email for any project ideas or collaborations.
