@@ -52,6 +52,8 @@ Here are some of my favorite books I would also recommend:
 - The Diet Compass - Book about diet and health underlined with related studies for a healtier body and mind [Amazon Link](https://www.amazon.com/Diet-Compass-Science-Based-Nutrition-Healthier/dp/1950354296)
 - The Red Queen - Book about evolution, history and an endless fight between sex and mutating predators [Amazon Link](https://www.amazon.com/Matt-Ridley/dp/0060556579)
 - Extreme Ownership - Book about good and bad leadership. Should be read by your boss and you ;) [Amazon Link](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)
+- The Bitcoin Standard - Book about Bitcoin, history of money and how money works [Amazon Link](https://www.amazon.com/Saifedean-Ammous/dp/1119473861)
+- Souverän investieren mit Indexfonds und ETFs - Book for long-term investing (German) [Amazon Link](https://www.amazon.com/Souver%C3%A4n-investieren-Indexfonds-ETFs-Book/dp/3593508524)
 
 
 ## Others & Affiliates 🤝
