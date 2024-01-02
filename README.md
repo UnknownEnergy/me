@@ -60,7 +60,7 @@ Here are some of my favorite books I would also recommend reading:
 - [Countries I visited](https://cmoreira.net/visited-countries-map/?vcstitle=Daniels%20Travel%20Map&inacolor=%23e0e0e0&actcolor=%236699cc&vcscountries=TR,AT,BA,BG,HR,CZ,DE,GR,HU,IT,LV,LT,NL,NO,PL,RO,SK,SI,ES,CH,UA,GB)
 - [Spotify](https://open.spotify.com/user/unknown_energy?si=4esOIVhKSpaYN260XJCjrQ) Music I listen to
 - [Binance](https://www.binance.com/?ref=21762885) Crypto exchange - cheap & discount
-- [Blockpit](http://www.blockpit.io/ref/2Xcw0oG) Crypto tax report - quick & discount
+- [Blockpit](https://blockpit.cello.so/QLfnWWB7LMZ) Crypto tax report - quick & discount
 - [Uber](https://www.uber.com/invite/ys0k3d) Uber 5$ off your first ride
 
 ## Tips 💰💸
