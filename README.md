@@ -44,9 +44,9 @@ You can find me on the following social media platforms:
 - [Reddit](https://www.reddit.com/user/Unknown_Energy) Random
 - [YouTube](https://www.youtube.com/@danielschweiger) Crypto & NFT only
 
-## Book Recommendations 📖
+## Secret Book Recommendations 📖
 
-Here are some of my favorite books I would also recommend:
+Here are some of my favorite books I would also recommend reading:
 
 - Emotional Intelligence - Book about the connection between our brain and emotions and how to better deal with them [Link](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
 - The Diet Compass - Book about diet and health underlined with related studies for a healtier body and mind [Link](https://www.amazon.com/Diet-Compass-Science-Based-Nutrition-Healthier/dp/1950354296)
