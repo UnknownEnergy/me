@@ -1,4 +1,4 @@
-# Daniel Schweiger 👨‍💻 - Senior Software Engineer
+# Daniel Schweiger 👨‍💻
 
 Welcome to my personal website. I am a senior software engineer with over 7 years of experience in developing software solutions for various industries. I am passionate about building robust, scalable, and maintainable software systems that solve real-world problems. 
 
