@@ -44,6 +44,16 @@ You can find me on the following social media platforms:
 - [Reddit](https://www.reddit.com/user/Unknown_Energy) Random
 - [YouTube](https://www.youtube.com/@danielschweiger) Crypto & NFT only
 
+## Book Recommendations 📖
+
+Here are some of my favorite books I would also recommend:
+
+- Emotional Intelligence - Book about the connection between our brain and emotions and how to better deal with them [Amazon Link](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
+- The Diet Compas - Book about diet and health underlined with related studies for a healtier body and mind [Amazon Link](https://www.amazon.com/Diet-Compass-Science-Based-Nutrition-Healthier/dp/1950354296)
+- The Red Queen - Book about evolution, history and fight between sex and mutating predators [Amazon Link](https://www.amazon.com/Matt-Ridley/dp/0060556579)
+- Extreme Ownership - Book about good and bad leadership. Should be read by your boss or you ;) [Amazon Link](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)
+
+
 ## Others & Affiliates 🤝
 - [Countries I visited](https://cmoreira.net/visited-countries-map/?vcstitle=Daniels%20Travel%20Map&inacolor=%23e0e0e0&actcolor=%236699cc&vcscountries=TR,AT,BA,BG,HR,CZ,DE,GR,HU,IT,LV,LT,NL,NO,PL,RO,SK,SI,ES,CH,UA,GB)
 - [Spotify](https://open.spotify.com/user/unknown_energy?si=4esOIVhKSpaYN260XJCjrQ) Music I listen to
