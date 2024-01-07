@@ -57,7 +57,7 @@ Here are some of my favorite books I would also recommend reading:
 
 
 ## Others & Affiliates 🤝
-- [Countries I visited](https://cmoreira.net/visited-countries-map/?vcstitle=Daniels%20Travel%20Map&inacolor=%23e0e0e0&actcolor=%236699cc&vcscountries=TR,AT,BE,BA,BG,HR,CZ,FR,DE,GR,HU,IT,LV,LT,MC,NL,NO,PL,RO,SK,SI,ES,CH,UA,GB)
+- [Countries I visited](https://visitedplaces.com/view/?map=world&projection=geoOrthographic&theme=dark-green&water=1&graticule=0&names=1&duration=2000&placeduration=100&slider=0&autoplay=1&autozoom=none&autostep=1&home=AT&places=My%20Home~AT~1_0_0_-14.1_-47.6*Europe~FR_BE_BA_BG_HR_CZ_DE_GR_HU_IT_LV_LT_MC_NL_NO_PL_RO_SK_SI_ES_CH_TR_UA_GB~2.4_12.1_53.3_-12.1_-53.3)
 - [Spotify](https://open.spotify.com/user/unknown_energy?si=4esOIVhKSpaYN260XJCjrQ) Music I listen to
 - [Binance](https://www.binance.com/?ref=21762885) Crypto exchange - cheap & discount
 - [Blockpit](https://blockpit.cello.so/QLfnWWB7LMZ) Crypto tax report - quick & discount
