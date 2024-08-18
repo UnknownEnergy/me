@@ -18,6 +18,15 @@ I am currently working on a project called [Chat Worm](https://www.chatworm.com)
 Screenshot:  
 <img src="https://chatworm.com/assets/demo_screenshot.png" alt="Example Image" height="400">
 
+### Solitaire - Classic Card Game ♠️
+
+Introducing [Solitaire](https://unknownenergy.github.io/solitaire/), a beautifully designed and intuitive implementation of the classic card game. Whether you're a seasoned player or new to the game, Solitaire offers a relaxing and engaging experience. Play it in your browser or download the Android app for gaming on the go! You can find the app on the [Google Play Store](https://play.google.com/store/apps/details?id=io.github.unknownenergy.twa). 
+
+For those interested in the development behind the game, the source code is available on [GitHub](https://github.com/UnknownEnergy/solitaire). Enjoy a timeless classic with modern flair!
+
+Screenshot:  
+<img src="https://unknownenergy.github.io/solitaire/demo_screenshot.webp" alt="Solitaire Game Screenshot" height="400">
+
 ## Skills 👨‍🔬
 
 Here are some of the skills that I possess:
