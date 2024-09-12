@@ -30,7 +30,7 @@ Features include:
 Whether you're an accomplished artist or just enjoy doodling, Draw And Guess is all about having fun and letting your imagination run wild. Check out the Android app on the [Google Play Store](https://play.google.com/store/apps/details?id=quest.schweiger.drawandguess.twa) for gaming on the go!
 
 Screenshot:  
-<img src="draw_and_guess_screenshot.png" alt="Draw And Guess Game Screenshot" height="400">
+<img src="draw_guess.png" alt="Draw And Guess Game Screenshot" height="400">
 
 ### Solitaire - Classic Card Game ♠️
 
