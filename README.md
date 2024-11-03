@@ -72,12 +72,14 @@ You can find me on the following social media platforms:
 Here are some of my favorite books I would also recommend reading:
 
 - Emotional Intelligence - Book about the connection between our brain and emotions and how to better deal with them [Link](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
-- The Diet Compass - Book about diet and health underlined with related studies for a healtier body and mind [Link](https://www.amazon.com/Diet-Compass-Science-Based-Nutrition-Healthier/dp/1950354296)
-- The Plant Paradox: The Hidden Dangers in "Healthy" Foods - Do you think you eat healty and never heard about lectin? This book might be for you [Link](https://www.amazon.com/Plant-Paradox-Dangers-Healthy-Disease/dp/006242713X)
 - The Red Queen - Book about evolution, history and an endless fight between sex and mutating predators [Link](https://www.amazon.com/Matt-Ridley/dp/0060556579)
+- The Diet Compass - Book about diet and health underlined with related studies for a healtier body and mind [Link](https://www.amazon.com/Diet-Compass-Science-Based-Nutrition-Healthier/dp/1950354296)
+- Hope and Help for Your Nerves - Do you have any kind of nervous system issue, anxiety, headaches, sleeplessness etc. read this book [Link](https://www.amazon.com/Hope-Help-Your-Nerves-Anxiety-ebook/dp/B009PFN4IQ)
+- The Plant Paradox: The Hidden Dangers in "Healthy" Foods - Do you think you eat healty and never heard about lectin? This book might be for you [Link](https://www.amazon.com/Plant-Paradox-Dangers-Healthy-Disease/dp/006242713X)
 - Extreme Ownership - Book about good and bad leadership. Should be read by your boss and you ;) [Link](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)
 - The Bitcoin Standard - Book about Bitcoin, history of money and how money works [Link](https://www.amazon.com/Saifedean-Ammous/dp/1119473861)
 - Souverän investieren mit Indexfonds und ETFs - Book for long-term investing (German) [Link](https://www.amazon.com/Souver%C3%A4n-investieren-Indexfonds-ETFs-Book/dp/3593508524)
+- Asthma einfach wegatmen - Book if you have any kind of lung & nose issue like asthma, snoring etc. (German) [Link](https://www.amazon.de/Asthma-einfach-wegatmen-wissenschaftlich-Heuschnupfen/dp/3742310992)
 
 
 ## Others & Affiliates 🤝
